@@ -48,9 +48,6 @@
 	position:absolute;
 	left:11px;
 	top:10px;
-	background-image:url(images/image_1.png);
-	background-repeat:no-repeat;
-	background-size:cover;
 }
 .e2_9 { 
 	color:rgba(0, 0, 0, 1);
@@ -100,6 +97,19 @@
 	position:absolute;
 	left:0px;
 	top:0px;
+}
+.bildsex{
+	position: relative;
+	width:260px;
+	height:200px;
+	opacity: 0.75;
+}
+.bildsex:hover{
+	top: 5px;
+	left: 5px;
+	width:250px;
+	height:190px;
+	opacity: 1;
 }
 .ei13_89_2_13 { 
 	background-color:rgba(29.000000171363354, 29.000000171363354, 29.000000171363354, 0.5);
@@ -516,7 +526,7 @@
 	top:536px;
 }
 .ei19_79_5_54 { 
-	background-color:rgba(29, 29, 29, 0.5);
+	background-color:rgba(29, 29, 29, 0.5);	
 	width:260px;
 	height:200px;
 	position:absolute;
@@ -649,7 +659,7 @@
 	position:absolute;
 	left:18px;
 	top:18px;
-	background-image:url(images/image_2.png);
+	
 	background-repeat:no-repeat;
 	background-size:cover;
 }
