@@ -90,13 +90,17 @@
 	left:0px;
 	top:0px;
 }
-.ei13_89_2_12 { 
+.köpbild { 
 	background-color:rgba(29.000000171363354, 29.000000171363354, 29.000000171363354, 0.5);
 	width:260px;
 	height:200px;
 	position:absolute;
 	left:0px;
 	top:0px;
+}
+.adam{
+	width:auto;
+	height: 143px;
 }
 .bildsex{
 	position: relative;
@@ -111,7 +115,7 @@
 	height:190px;
 	opacity: 1;
 }
-.ei13_89_2_13 { 
+.köpr { 
 	background-color:rgba(29.000000171363354, 29.000000171363354, 29.000000171363354, 0.5);
 	width:260px;
 	height:40px;
